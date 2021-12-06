@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnProdi" type="id" />
+    <item name="btnCallBrowser" type="id" />
+    <item name="btnCallCamera" type="id" />
+    <item name="inputPhoneNumber" type="id" />
+    <item name="btnCallPhone" type="id" />
+    <item name="btnFragment" type="id" />
+</resources>
