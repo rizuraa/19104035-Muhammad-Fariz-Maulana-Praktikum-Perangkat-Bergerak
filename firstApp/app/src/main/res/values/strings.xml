@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hello, IT Telkom Purwokerto</string>
+    <string name="name">Nama Mahasiswa</string>
+    <string name="my_name">Tony Stark</string>
+    <string name="text_nim">Nim Mahasiswa</string>
+    <string name="my_nim">123456</string>
+
+</resources>
